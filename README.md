@@ -9,7 +9,7 @@ Each task corresponds to a specific algorithmic technique or problem-solving app
 
 | Task No. | Topic / Algorithm Implemented |
 |-----------|-------------------------------|
-| **Task-2** | Task-2 (Basic introductory problem) |
+| **Task-2** | Algorithmic problem solving 2 |
 | **Task-3** | Quick Sort Method |
 | **Task-4** | Implement Parallel Merge Sort using OpenMP |
 | **Task-5** | Dynamic Programming – Warshall’s & Floyd’s Algorithm |
